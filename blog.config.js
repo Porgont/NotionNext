@@ -206,7 +206,7 @@ const BLOG = {
     {
       name: '不老梦-银临',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/#/song?id=421137682',
+      url: 'https://music.163.com/song/media/outer/url?id=421137682.mp3',
       cover:
             'http://p1.music.126.net/C46EsA5gsbTPWjOFNLXlTA==/109951163023120938.jpg'
     }
