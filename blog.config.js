@@ -209,7 +209,36 @@ const BLOG = {
       url: 'https://music.163.com/song/media/outer/url?id=421137682.mp3',
       cover:
             'http://p1.music.126.net/C46EsA5gsbTPWjOFNLXlTA==/109951163023120938.jpg'
-    }
+    },
+    {
+      name: '棠梨煎雪-银临',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://music.163.com/song/media/outer/url?id=28188427.mp3',
+      cover:
+            'http://p1.music.126.net/LBnYDAUED2mD1veBvBnC8g==/5859297464524710.jpg'
+      
+    },
+    {
+            name: '一生中最爱-谭咏麟',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://music.163.com/song/media/outer/url?id=153784.mp3',
+      cover:
+            'http://p1.music.126.net/XWKY2tvu_LWD1CYaT3_OFg==/109951165825713895.jpg'
+    },
+    {
+            name: '我不曾忘记-花玲/张安琪/沐霏',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://music.163.com/song/media/outer/url?id=2014336709.mp3',
+      cover:
+            'http://p2.music.126.net/dM_2lEqG7ZP7l0NjoApPFg==/109951168232666774.jpg'
+    },
+    {
+            name: '锦鲤抄-银临/云の泣',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://music.163.com/song/media/outer/url?id=28188434.mp3',
+      cover:
+            'http://p1.music.126.net/LBnYDAUED2mD1veBvBnC8g==/5859297464524710.jpg'
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
